@@ -1,0 +1,1 @@
+Keep downloaded email bodies in this folder locally. Do not push email message text, personal data, or Kaggle content until data rights and privacy clearance are confirmed. The public repository distributes no original emails.

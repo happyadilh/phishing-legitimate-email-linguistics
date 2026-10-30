@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Please cite this repository and acknowledge the original 2026 master's term paper described in CITATION.md."
+type: software
+title: "Linguistic Differences Between Phishing and Legitimate Emails: Illustrative Research Companion"
+authors:
+  - family-names: Hussain
+    given-names: Adil
+    alias: happyadilh
+repository-code: "https://github.com/happyadilh/phishing-legitimate-email-linguistics"
+license: MIT
+abstract: "Illustrative feature-analysis code and historically reported aggregate results accompanying Adil Hussain's master's term paper. This repository is not an independent replication or a phishing detector."

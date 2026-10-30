@@ -1,0 +1,9 @@
+id,label,text
+d01,phishing,Urgent: your account review is required immediately. Please verify your details now or your account may be suspended. This is a fictional research example.
+d02,phishing,We require you to confirm the requested payment immediately. Your access may expire within 24 hours. This is only a fabricated example for testing.
+d03,phishing,Final warning: you must complete a fictional identity check. We will close your trial access without delay if you do not respond.
+d04,phishing,Please act now and update your account profile. We would like you to provide confirmation right away. This message is invented and not genuine.
+d05,legitimate,I wanted to share my revised meeting notes. Perhaps we can review the schedule tomorrow and discuss the training materials before our regular team session.
+d06,legitimate,"The department published the monthly agenda and several resources. I have attached a summary for colleagues, and I welcome comments on the proposed discussion points."
+d07,legitimate,"I recently completed the first chapter of our project report. The document includes background information, methods, and a short interpretation of the preliminary findings."
+d08,legitimate,Our reading group will discuss the selected article next week. Participants may bring their notes and questions to help us prepare a thoughtful conversation.
